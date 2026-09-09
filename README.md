@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Arjun Choudhary |
+| **LinkedIn** | [Arjun Choudhary](https://www.linkedin.com/in/arjun-choudhary-40b070282?utm_source=share_via&utm_content=profile&utm_medium=member_android) |
+| **Location** |Durgapur West Bengal|
+| **Background** | MERN Developer+cloud+Devopps|
+| **Goal** | Software Engineer|
 
 ---
 
