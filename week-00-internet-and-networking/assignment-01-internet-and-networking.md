@@ -14,7 +14,7 @@ You're new to DevOps and will frequently encounter technical questions. ChatGPT 
 
 Write a clear ChatGPT prompt to help you understand:
 
-> "What is a protocol in networking? Explain with a simple real-life example."
+> Hi' i am studying devoops & aws but i need clear and proper understanding  What is a protocol in networking? Explain with a simple real-life example.
 
 Take a screenshot of your interaction showing:
 
@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+I learned that a networking protocol is a set of rule that allows computer and device to communicate with each other.I also learned that protocol like HTTP,HTTPS,TCP,IP,and DNS are used for different type of network communication.
 
 ---
 
@@ -59,7 +59,9 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone from any part of the world visite the epicreads website,their request has to travelto the server localed in finland.
+The website has an IP address, which works like the address of the server.The request is broken into samll part called  packets and these packets travel throught different routers and  network using packet switching.
+TCP/IP helps the user's device and the server communicate properly. IP is responsible for finding the right destination, while TCP makes sure the data reaches correctly and in the proper order. After reaching the server, HTTP or HTTPS is used to communicate between the browser and the website. HTTPS is more secure because it encrypts the data, which helps protect important information like passwords and payment details.
 
 ---
 
@@ -102,18 +104,19 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML.
+*  Core CSS or TAILWIND CSS.
+* JAVASCRIPT or REACT.
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node js
+* Express js
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDB
+* MySQL
 
 ---
 
@@ -142,7 +145,8 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS(Domain Name System) is like the internet phonebook.It converts an  easy to remember domain name such as epicreads.com into the IP address of the server where the website is hosted.This makes it easier for users to access websites without remembering numbers.
+For EpicReads, an A record should be used because it connects a domain name to an IPv4 address. So, the A record can point epicreads.com to 52.172.142.222. The :3000 is the port number and is not included in the A record.
 
 ---
 
@@ -241,25 +245,48 @@ Paste the full text of your LinkedIn post here:
 
 Add your post content here...
 
+Week 00 – DevOps Micro Internship (DMI) | Cohort 3
+I’ve completed my Week 00 – Internet and Networking tasks as part of my DevOps learning journey.
+Here’s what I learned and practiced this week:
+ ChatGPT
+I learned how networking protocols work and how they help devices communicate with each other. I also understood the concept using a simple real-life example.
+ Internet & Networking
+I learned how a website hosted in Finland can be accessed by users around the world. I explored packet switching, IP addresses, TCP/IP, and HTTP/HTTPS and understood how they work together when accessing a website.
+ App Architecture
+I learned the difference between two-tier and three-tier application architecture.
+I also explored technologies commonly used in each layer:
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+ DNS
+I learned that DNS (Domain Name System) works like the internet's phonebook. It converts a domain name into an IP address.
+I also learned that an A record is used to connect a domain name with an IPv4 address.
+VS Code Setup
+I practiced using Visual Studio Code and its integrated terminal. I also ran basic commands and became more comfortable working with the development environment.
+This week helped me strengthen my basic networking and DevOps concepts. I'm looking forward to learning more about Linux, Git, AWS, cloud infrastructure, and automation in the upcoming weeks. 
+hashtag#DevOps hashtag#AWS hashtag#Networking hashtag#CloudComputing hashtag#Learning hashtag#DMI hashtag#DevOpsMicroInternship hashtag#Cohort3 hashtag#AgenticAI hashtag#TechLearning hashtag#DMIBbyPravinMishra
+
+ P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. My graded progress is public: https://lnkd.in/dhgCBiuw · Start your DevOps journey: https://lnkd.in/drJ5hj7w
+
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+I found the basic networking concepts easy to understand , especially IP addresses, DNS, and networking protocols. The real-life example made these concept easier to understand.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how packets travel through different networks and how TCP/IP works was a little difficult at first. I needed to go through the concepts more than once to understand them properly.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I want to improve  Git skills and start learning more about AWS and DevOps tools. I also want to practice the concepts instead of only studying the theory.
 
 ---
 
