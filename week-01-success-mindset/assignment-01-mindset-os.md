@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that getting a good job is not the same as having a successful career. Many people around me think that getting a degree and joining a well-known company means you have achieved success. I disagree with that i think real success comes from continuously learning and improving  your skills. Even if someone start with a small job or a lower salary they can build a better career if they keep learning ,gaining practical experience and taking new opportunities. For me,skills,consistency,and willingness to learn are more important than just the name of the company or the starting salary.
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Regular pracice improve my coding skills more than only watching tutorials.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried learning HTML,CSS and JavaScript by building small projects instead of only watching videos. When i practised by making things like a calculator and a TO-DO-list, I understood concept better and became more confident in writing code.
 
 ---
 
@@ -67,11 +67,12 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+I remember technical concepts better when i understand them with practcal examples.
 
 ### Evidence from my life
 
-Add your answer here...
+I notice that reading defination alone made sme networking and DevOps concepts difficults to remember.
+When I learned concepts such as protocols,DNS,IP addresses, and TCP/IP using real-life examples, they become much easier for me to understand and explain.
 
 ---
 
@@ -79,11 +80,13 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent effort over time produces better results than studying a lot only once in a while.
 
 ### Evidence from my life
 
-Add your answer here...
+I tried spending regular time learning programming and DevOps concepts instead of studyng everything at once.
+Even when I learned only one small topic at a time, I found that my understanding gradually improved and I could connect new topics with what I had already learned.
+
 
 ---
 
@@ -145,13 +148,33 @@ Add the following credit note at the end of your post **(If you are DMI Campus s
 
 ## Your Article
 
-Add your answer here...
+Three years ago, I was just a student who had started getting serious about web development. I was learning HTML, CSS, JavaScript, React, Node.js, Express.js, and MongoDB. I understood the basics, but making a complete project by myself was not easy. I got stuck many times, searched for answers, fixed errors, and slowly learned from those mistakes.
+
+Three years later, my 2.0 version had become a professional MERN Stack Developer.
+
+During these three years, I built and shipped different full-stack web applications using MongoDB, Express.js, React, and Node.js. I worked on projects like an e-commerce website, authentication systems, admin dashboards, and REST API-based applications. Building these projects helped me understand how the frontend, backend, database, and APIs actually work together.
+
+My GitHub profile also changed a lot. Earlier, it was mostly for uploading practice code. Later, it became a proper portfolio where I had complete projects, README files, documentation, and regular contributions. Each project showed my skills and the problems I had solved while building it.
+
+I also created and published my own developer portfolio website. It included my skills, projects, GitHub profile, certifications, and contact details. I started writing technical blogs too, where I shared things I learned about JavaScript, React, Node.js, MongoDB, APIs, Git, and deployment.
+
+Along the way, I earned some web development and technology certifications and used my projects as proof of my practical skills. I also became more active in developer communities. I helped beginners, shared useful resources, answered questions, and learned from other developers.
+
+I also started working professionally as a MERN Stack Developer. I worked on real projects, added new features, fixed bugs, created APIs, worked with databases, and collaborated with other developers. With more experience, I started taking responsibility for development tasks and handling parts of projects on my own.
+
+The biggest change, however, was not just my technical skills. My problem-solving skills improved a lot. I became more comfortable reading documentation, debugging errors, understanding code written by others, and breaking bigger problems into smaller ones.
+
+My 2.0 version was not built in one day. It came from regular practice, real projects, mistakes, debugging, and continuous learning.
+
+Three years earlier, I was a student trying to understand how websites worked. Three years later, I had become a developer who could build, deploy, and maintain full-stack applications.
+
+Looking back, my journey from student developer to professional MERN Stack Developer taught me a simple lesson: if you keep improving a little every day, you can become a completely different version of yourself after three years.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c?postPublishedType=initial
 
 ---
 
@@ -183,7 +206,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes' I have taken shortcut before, especially when i was under pressure to finish something quickly. At that moment, it felt like an easy way to save time ,but later i felt guilty and stressed about it .I keep thinking that i could have done the work properly insteand of looking for an easier way. It also made me feel uncomfortable because i knew that the shortcut was not the right approch. The experience taught me that finishing something quickly is not always more important that doing it honestly and learning from the process. Since then, I have tried to be more responsible and avoid repeating the same mistake.
 
 ---
 
@@ -209,16 +232,20 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1.Learning React-Alex Banks & Eve Porcello
+![ Assignment 5 Screenshot](screenshots/Book-1.png)
+2. Node.js Design Patterns- Mario Casciaro & Luciano Mammino.
+![ Assignment 5 Screenshot](screenshots/Book-2.png)
+3. MongoDB-Shannon Bradshaw, Ecin Brazil & Kristina
+![ Assignment 5 Screenshot](screenshots/Book-3.png)
+4. Clean Code — Robert C. Martin
+![ Assignment 5 Screenshot](screenshots/Book-4.png)
+5. Atomic Habits — James Clear
+![ Assignment 5 Screenshot](screenshots/Book-5.png)
+6. Deep Work — Cal Newport
+![ Assignment 5 Screenshot](screenshots/Book-6.png)
+7. The Psychology of Money — Morgan Housel
+![ Assignment 5 Screenshot](screenshots/Book-7.png)
 
 ---
 
@@ -247,16 +274,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Learning hours per week
+* MERN/technical skills practiced
+* New concepts learned
+* Coding practice sessions
+* Projects completed and shipped
+* GitHub contributions and projects update
+* Deep work sessions per week
+* Sleep hours and overall energy
+* Workouts/ physical activity
+* Monthly Spending and expenses
 
 ---
 
@@ -282,7 +309,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes'I wrote down the important things that were on my mind, including my studies, MERN development learning, DMI tasks, projects, career goals, pending work, and other responsibilities.
 
 ---
 
@@ -300,7 +327,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 1 hour MERN development practice.
+Friday: 1 hour DMI work and revision.
+Saturday: 2 hours for projects and coding practice.
+Sunday: Weekly review and planning for the next week.
 
 ---
 
@@ -308,11 +338,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Friday: 7:00 PM - 8:00 PM
+Saturday:10:00 AM-11:00 AM
+
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+1 sessions per week
 
 ---
 
@@ -326,7 +358,13 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+1. Keep my phone away during study and coding sessions.
+2. Avoid Instagram, YouTube Shorts, and unnecessary social media during focus time.
+3. Use only the tabs and websites needed for learning.
+4. Study in a clean and quiet place.
+5. Complete my planned task before taking a long break.
+6. Avoid multitasking while coding or studying.
+
 
 ---
 
@@ -334,28 +372,29 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I can learn better when I follow a proper routine instead of trying to do everything at once. Small and consistent progress helps me stay focused and understand things better.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is getting distracted by my phone and sometimes spending too much time watching tutorials instead of actually practicing and building something.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will keep a 1-hour coding and learning block from 7:00 PM to 8:00 PM, Monday to Thursday, with my phone away. During this time, I will focus only on MERN development, DMI work, or project practice.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicrointernship-activity-7505685240443580416-UyCe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicrointernship-activity-7505685240443580416-UyCe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08  
+
+- Blog / Medium : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340
 
 ---
 
