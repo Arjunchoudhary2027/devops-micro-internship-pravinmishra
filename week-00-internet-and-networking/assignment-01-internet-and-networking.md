@@ -241,16 +241,12 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 Paste your LinkedIn post URL here:
 
 ```text
-Add your URL here...
+https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-aws-networking-activity-7505536462482817025-HfQ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08
 ```
 
 ---
 
 ## LinkedIn Post Backup Copy
-
-Paste the full text of your LinkedIn post here:
-
-Add your post content here...
 
 Week 00 – DevOps Micro Internship (DMI) | Cohort 3
 I’ve completed my Week 00 – Internet and Networking tasks as part of my DevOps learning journey.
