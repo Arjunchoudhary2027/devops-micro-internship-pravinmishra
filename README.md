@@ -131,7 +131,7 @@ This is not a course. It is an internship-style program — real deployments, re
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-aws-networking-activity-7505536462482817025-HfQ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08| https://medium.com/@studyplace16/week-00-internet-networking-my-first-step-into-devops-31d5b621965d|
-| 01 | Success Mindset |✅ Completed | ✅ Solved | https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicrointernship-activity-7505685240443580416-UyCe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08|- Blog / Medium 1 : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340
+| 01 | Success Mindset |✅ Completed | ✅ Solved | https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicrointernship-activity-7505685240443580416-UyCe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08|- Blog / Medium 1 : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340 |
 -  Blog / Medium 2 :https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c|
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
