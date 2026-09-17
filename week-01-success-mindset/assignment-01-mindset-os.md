@@ -403,8 +403,8 @@ https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicroi
 
 - LinkedIn Post URL:https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicrointernship-activity-7505685240443580416-UyCe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08
 
-- Blog / Medium : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340
-
+- Blog / Medium 1 : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340
+-  Blog / Medium 2 :https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c
 ---
 
 ## 📌 About DMI & CloudAdvisory
