@@ -178,11 +178,14 @@ Three years earlier, I was a student trying to understand how websites worked. T
 
 Looking back, my journey from student developer to professional MERN Stack Developer taught me a simple lesson: if you keep improving a little every day, you can become a completely different version of yourself after three years.
 
+
+P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Arjunchoudhary2027.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3
+
 ### Public Link
 
 Paste your link here:
 
-https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c?postPublishedType=initial
+https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c?postPublishedType=repub
 
 ---
 
@@ -403,8 +406,8 @@ https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicroi
 
 - LinkedIn Post URL:https://www.linkedin.com/posts/arjun-choudhary-40b070282_devops-dmi-devopsmicrointernship-activity-7505685240443580416-UyCe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES1WUsBWzyWP3lxPiB6LHc6dUaZRHDaG08
 
-- Blog / Medium 1 : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340
--  Blog / Medium 2 :https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c?postPublishedType=initial
+- Blog / Medium 1 : https://medium.com/@studyplace16/building-my-mindset-os-lessons-from-week-01-0b4dc805b340?postPublishedType=repub
+-  Blog / Medium 2 :https://medium.com/@studyplace16/mern-journey-dd9c38dcc75c?postPublishedType=repub
 ---
 
 ## 📌 About DMI & CloudAdvisory
